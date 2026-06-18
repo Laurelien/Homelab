@@ -4,7 +4,7 @@ Deployment project and local infrastructure management (Homelab) on a dedicated 
 
 ## Architecture
 
-[Architecure diagram](path/to/diagram.png)
+[Architecure diagram](/homelab.draw.io)
 
 The infrastructure operates strictly within an isolated LAN zone, minimizing the external attack surface prior to VPN implementation.
 
