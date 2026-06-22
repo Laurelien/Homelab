@@ -55,3 +55,4 @@ The infrastructure operates strictly within an isolated LAN zone, minimizing the
 
 - Implement Zero-Trust Remote Access via Tailscale (WireGuard Mesh VPN) with MFA.
 - Monitor services with Grafana and Prometheus.
+- Go full HTTPS with certificate manaagment (Nginx + Certbot)
